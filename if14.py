@@ -1,0 +1,7 @@
+a = int(input("Birinchi sonni kiriting: "))
+b = int(input("Ikkinchi sonni kiriting: "))
+c = int(input("Uchinchi sonni kiriting: "))
+i = min(a, b, c)
+x = max(a, b, c)
+print("Kichik son:", i)
+print("Katta son:", x)
